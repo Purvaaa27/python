@@ -1,4 +1,5 @@
 print("welcome to this page")
+
 print("Check weather the number is odd or even")
 
 a  = int(input("Enter the number:"))
